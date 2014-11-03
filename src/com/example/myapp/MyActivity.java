@@ -21,7 +21,7 @@ public class MyActivity extends ListActivity
     private ProgressDialog pDialog;
 
 
-    private static String url = "http://bulut.polibis.com/mobil/musteriler/";
+    private static String url = "http://???";
 
 
     private static final String TAG_MUSTERI = "musteri";
